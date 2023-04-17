@@ -3,7 +3,7 @@
 # Создание дашборда для продавца Wildberries.
 
 ### Ссылка на дашборд.
-# [Дашборд WB](https://datalens.yandex.ru/uv7rm00y4v58k-dashbord-wb)
+# [Дашборд WB](https://datalens.yandex.ru/jwdifl2oj7dm9-dashbord-wb-csv)
 
 ## Описание проекта.
 
