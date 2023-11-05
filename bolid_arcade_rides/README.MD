@@ -3,7 +3,7 @@
 # Создание дашборда для компании BolidTeam.
 
 ### Ссылка на дашборд.
-# [Дашборд Аркадные аттракционы](https://datalens.yandex.ru/kst9bn2jptba9-dashbord-bolid-team-analiz-prodazh-uslug-arkadnyh-atra)
+# [Дашборд Аркадные аттракционы](https://datalens.yandex/kst9bn2jptba9)
 
 ## Описание проекта.
 
